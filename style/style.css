@@ -1,0 +1,62 @@
+h2 {
+	text-align:center;
+	font-family: "Courier New", Courier, monospace;
+	font-style:italic;
+	color:#808000;
+	font-weight: 700;
+}
+
+body {
+      background-color:#FFF8DC;
+}
+
+.general {
+	padding-left: 40px;
+}
+
+ul li {
+    display:inline-block;
+    float: left;
+    margin-right: 15px;
+	font-size: 25px;
+	font-style:italic;
+}
+
+#someid {
+	border: 3px solid #ddd;
+	border-radius: 50%;
+	display: table-cell;
+}
+
+.fulltext {
+	text-align:left;
+	font-size:17px;
+	color:#ff8c1a;
+    width:1000px;
+	text-align:justify;
+	padding-top: 20px;
+	padding-right:20px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
